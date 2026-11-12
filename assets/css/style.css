@@ -1472,6 +1472,10 @@ img { max-width: 100%; height: auto; display: block; }
   margin: 0 0 34px;
 }
 
+.rm-plenary-directory br {
+  display: none;
+}
+
 .rm-plenary-directory-card {
   display: grid;
   grid-template-rows: auto 1fr;
@@ -1665,7 +1669,7 @@ img { max-width: 100%; height: auto; display: block; }
   color: var(--rm-white);
 }
 
-@media (max-width: 1050px) {
+@media (max-width: 860px) and (min-width: 761px) {
   .rm-plenary-directory {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
