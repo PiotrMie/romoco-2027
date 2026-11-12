@@ -1496,9 +1496,9 @@ img { max-width: 100%; height: auto; display: block; }
 
 .rm-plenary-directory-card img {
   width: 100%;
-  aspect-ratio: 4 / 3;
+  aspect-ratio: 1 / 1;
   object-fit: cover;
-  object-position: center 20%;
+  object-position: center 12%;
   background: #eef3f7;
 }
 
