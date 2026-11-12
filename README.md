@@ -29,3 +29,5 @@ Every push to `main` is checked, built into `dist/` and deployed by `.github/wor
 - `contact.html` - conference secretariat
 
 The WordPress theme is retained separately as a migration source and is not required to run this website.
+
+See [EDITING.md](EDITING.md) for instructions on updating and publishing the website directly from GitHub.
