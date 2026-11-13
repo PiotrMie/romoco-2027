@@ -165,13 +165,13 @@ img { max-width: 100%; height: auto; display: block; }
 
 .rm-auspices-name {
   min-width: 0;
-  max-width: 500px;
+  max-width: 390px;
   margin: 0;
   color: var(--rm-muted);
-  font-size: .84rem;
-  font-weight: 650;
+  font-size: .8rem;
+  font-weight: 600;
   line-height: 1.4;
-  overflow-wrap: anywhere;
+  overflow-wrap: normal;
 }
 
 .rm-partner-bar .rm-partner-logo-grid {
